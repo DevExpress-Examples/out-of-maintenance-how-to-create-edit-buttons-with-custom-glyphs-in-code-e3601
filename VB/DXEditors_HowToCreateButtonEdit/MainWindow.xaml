@@ -1,0 +1,10 @@
+﻿<Window x:Class="DXEditors_HowToCreateButtonEdit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors">
+    <Grid>
+        <dxe:ButtonEdit 
+            HorizontalAlignment="Left" Margin="176,129,0,0" Height="22"
+            Name="btnEdit" VerticalAlignment="Top" Width="150" />
+    </Grid>
+</Window>

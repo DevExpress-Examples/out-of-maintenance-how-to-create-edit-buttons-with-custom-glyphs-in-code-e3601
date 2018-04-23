@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DXEditors_HowToCreateButtonEdit", "DXEditors_HowToCreateButtonEdit\DXEditors_HowToCreateButtonEdit.vbproj", "{555BC60C-D2C9-4244-A8D5-434C5EF64DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{555BC60C-D2C9-4244-A8D5-434C5EF64DAD}.Debug|x86.ActiveCfg = Debug|x86
+		{555BC60C-D2C9-4244-A8D5-434C5EF64DAD}.Debug|x86.Build.0 = Debug|x86
+		{555BC60C-D2C9-4244-A8D5-434C5EF64DAD}.Release|x86.ActiveCfg = Release|x86
+		{555BC60C-D2C9-4244-A8D5-434C5EF64DAD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
