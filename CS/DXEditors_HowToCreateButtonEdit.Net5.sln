@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DXEditors_HowToCreateButtonEdit", "DXEditors_HowToCreateButtonEdit\DXEditors_HowToCreateButtonEdit.vbproj", "{555BC60C-D2C9-4244-A8D5-434C5EF64DAD}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXEditors_HowToCreateButtonEdit", "DXEditors_HowToCreateButtonEdit\DXEditors_HowToCreateButtonEdit.Net5.csproj", "{555BC60C-D2C9-4244-A8D5-434C5EF64DAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
